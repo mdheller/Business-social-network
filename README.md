@@ -1,4 +1,4 @@
-# UTAP-S97-CA4
+# Business-social-network
 Tried to replicate LinkedIn (without a GUI and in much simpler manner) using C++ and Object Oriented programming
 
 Used OO Programming and MultiFile method to code a system and try to replicate linkedIn.
